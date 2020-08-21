@@ -1,0 +1,96 @@
+// Задание 3 CSS
+
+html, body { font-family:'Montserrat', sans-serif}
+
+.btn {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: white; 
+  color: #4CAF50; 
+  border: 2px solid #4CAF50;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+.btn:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.message {
+  margin: auto;
+  width: 600px;
+  background: linear-gradient(to bottom left, #79C7C5 40%, #F9FBFF 100%);
+}
+
+.res {
+  margin: 0 auto;
+  width: 600px;
+}
+
+.input {
+  width: 315px;
+  float: left;
+  text-align: left;
+}
+
+input {
+  height: 32px;
+  width: 315px;
+  border: 2px solid #cccccc;
+  border-radius: 4px;
+  font-size: 15px;
+  
+}
+
+.button1 {
+  width: 135px;
+  float: left;
+  text-align: right;
+}
+
+.button2 {
+  width: 150px;
+  float: left;
+  text-align: right;
+}
+
+.server {
+  width: 300px;
+  float: left;
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.sender {
+  width: 300px;
+  float: left;
+  text-align: right;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.messageSender {
+  width: 600px;
+  float: left;
+  text-align: right;
+  font-size: 15px;
+  
+}
+.messageServer {
+  width: 600px;
+  float: left;
+  text-align: left;
+  font-size: 15px;
+}
+
+
+
+
